@@ -15,7 +15,7 @@
 
 ## 问答
 1. 当远程库发生了更改以后，要如何同步到本地库?
-答: 使用git pull 命令.
+  答: 使用git pull 命令.
 
 2. 如何回退版本?
-答: `git reset --hard HEAD^ `表示回退到上一个版本, `git reset --hard HEAD~10` 表示回退到前10个版本. `git reset --hard xxxxx` 表示回退到xxxxx编号开头的版本.
+  答: `git reset --hard HEAD^ `表示回退到上一个版本, `git reset --hard HEAD~10` 表示回退到前10个版本. `git reset --hard xxxxx` 表示回退到xxxxx编号开头的版本.
