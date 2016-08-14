@@ -1,5 +1,4 @@
-# learngit
-
+# git使用
 ## 使用github远程库步骤
 1、在github上创建项目
 
