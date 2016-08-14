@@ -21,3 +21,5 @@
   - 答: `git reset --hard HEAD^ `表示回退到上一个版本, `git reset --hard HEAD~10` 表示回退到前10个版本. `git reset --hard xxxxx` 表示回退到xxxxx编号开头的版本.
 3. 如何撤销操作?
   - 答: `git check -- filename.txt`
+4. 如何删除文件?
+  - 答: `git rm filename.txt`
