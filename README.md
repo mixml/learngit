@@ -24,3 +24,5 @@
   - 答: `git rm filename.txt`
 5. 如何查看版本?
   - 答: `git reflog`
+6. 如何查看状态?
+  - 答: `git status`
