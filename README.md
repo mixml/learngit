@@ -26,3 +26,4 @@
   - 答: `git reflog`
 6. 如何查看状态?
   - 答: `git status`
+7
