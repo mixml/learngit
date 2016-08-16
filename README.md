@@ -26,4 +26,5 @@
   - 答: `git reflog`
 6. 如何查看状态?
   - 答: `git status`
-7
+7. 如何添加远程库?
+  - 答: `ssh-keygen -t rsa -C "youremail@example.com"`, 将`id_rsa.pub`填入github`https://github.com/settings/keys`, 再执行命令`git remote add origin git@github.com:xxxx/xxxx.git`
