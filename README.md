@@ -22,3 +22,5 @@
   - 答: `git check -- filename.txt`
 4. 如何删除文件?
   - 答: `git rm filename.txt`
+5. 如何查看版本?
+  - 答: `git reflog`
