@@ -37,3 +37,4 @@
   - 答: `git add -u`
 12. 如何修改提交的commit信息?
   - 答: 'git commit --amend'
+  
