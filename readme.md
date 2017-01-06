@@ -36,6 +36,6 @@
 11. 如何添加编辑或者删除的文件，但不包括新添加的文件?
   - 答: `git add -u`
 12. 如何修改最后一次commit的信息?
-  - 答: 'git commit --amend'
+  - 答: `git commit --amend`
   
   
