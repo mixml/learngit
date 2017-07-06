@@ -37,5 +37,6 @@
   - 答: `git add -u`
 12. 如何修改最后一次commit的信息?
   - 答: `git commit --amend`
-  
+13. 如何查看工作区和版本库里面最新版本的区别?
+  - 答: `git diff HEAD file.txt`
   
