@@ -39,4 +39,7 @@
   - 答: `git commit --amend`
 13. 如何查看工作区和版本库里面最新版本的区别?
   - 答: `git diff HEAD file.txt`
-  
+14. 如何查看最近一次提交所有更改过的文件?
+  - 答: `git log -n 1 --stat`
+15. 如何查看最近一次提交所有更改的细节?
+  - 答: `git log -n 1 -p`
